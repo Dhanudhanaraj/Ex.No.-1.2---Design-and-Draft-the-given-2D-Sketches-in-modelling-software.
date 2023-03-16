@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
- 
+ ![experi2EDM](https://user-images.githubusercontent.com/119218812/225723225-350d6813-4fde-4e34-a9ba-c0c39805885b.png)
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
